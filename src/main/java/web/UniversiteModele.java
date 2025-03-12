@@ -2,7 +2,7 @@ package web;
 
 import java.util.ArrayList;
 import java.util.List;
-import metier.Universite;
+import metier.entities.Universite;
 
 public class UniversiteModele {
 	private String motCle;

@@ -3,7 +3,7 @@ package test;
 import java.util.List;
 
 import dao.UniversiteDaoImpl;
-import metier.Universite;
+import metier.entities.Universite;
 
 public class TestMetier {
 
